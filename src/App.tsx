@@ -43,7 +43,7 @@ export function Nav() {
       }}
       className="fixed top-3 z-10 flex w-full justify-center"
     >
-      <nav className="flex justify-between gap-3 rounded-3xl bg-white p-5 *:border *:border-gray-200 *:px-7 *:py-2 *:rounded-lg ">
+      <nav className="flex justify-between gap-1 md:gap-3 rounded-3xl bg-white p-5 *:border *:border-gray-200 *:px-2 md:*:px-7 *:py-2 *:rounded-lg ">
         <a href="#" className="bg-gray-200">
           <svg
             className="h-6 w-6"
